@@ -1,0 +1,11 @@
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.csproj.AssemblyReference.cache
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.csproj.SuggestedBindingRedirects.cache
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.Properties.Resources.resources
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.csproj.GenerateResource.cache
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.csproj.CoreCompileInputs.cache
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\bin\Debug\TextPreprocessor.exe.config
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\bin\Debug\TextPreprocessor.exe
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\bin\Debug\TextPreprocessor.pdb
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.exe
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.pdb
+C:\MyProjects\C#\TextPreprocessor\TextPreprocessor\obj\Debug\TextPreprocessor.TextView.resources
